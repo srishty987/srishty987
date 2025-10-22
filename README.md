@@ -25,10 +25,12 @@
 - 🎨 **Passionate Painter** – Exhibited artworks in college & community events  
 - 👩‍💻 **Bellatrix Community Member** – Encouraging women in tech  
 
-<!-- Cool Animated ML Header -->
+<!-- Cool Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C0FF&height=200&section=header&text=💡+DSA+Problem+Solver;⚡+Electronics+Enthusiast;🚀+Tech+Learner+%26+Innovator"&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C0FF&height=200&section=header&text=DSA%20Problem%20Solver%20%7C%20Electronics%20Enthusiast%20%7C%20Tech%20Learner&fontSize=30&fontColor=ffffff" />
 </div>
+
+
 
 ---
 
