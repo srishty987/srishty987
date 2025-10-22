@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me  
-- 🎯 B.Tech in **Electronics Engineering** @ **KNIT (2022–2026)** — GPA: 8.5/10  
+- 🎯 B.Tech in **Electronics Engineering** @ **KNIT (2022–2026)** — GPA: 8/10  
 - 💡 I love solving **DSA problems** and exploring the world of **electronics**  
 - 🌱 Always learning and improving through coding challenges and teamwork  
 - 🤝 Open to collaborating on innovative and learning-focused tech projects  
