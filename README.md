@@ -1,3 +1,35 @@
+# 💫 Hi, I'm Srishty Sangwan 👋  
+🎓 Electronics Engineering Student | 💡 Tech Enthusiast | ❤️ Problem Solver  
+
+---
+
+### 🚀 About Me  
+- 🎯 B.Tech in **Electronics Engineering** @ **KNIT (2022–2026)** — GPA: 8.5/10  
+- 💡 I love solving **DSA problems** and exploring the world of **electronics**  
+- 🌱 Always learning and improving through coding challenges and teamwork  
+- 🤝 Open to collaborating on innovative and learning-focused tech projects  
+
+---
+
+### 🛠 Tech Stack  
+**Languages:** C++, C, Python  
+**Web:** HTML, CSS, JavaScript  
+**Tools:** VS Code, Git  
+**Platforms:** LeetCode | GeeksforGeeks | Coding Ninjas | CodeChef  
+
+---
+
+### 🏅 Achievements  
+- 🥇 **Gold Medalist** – Badminton & Basketball  
+- 🏀 **Emerging Player Award** – College Basketball Team  
+- 🎨 **Passionate Painter** – Exhibited artworks in college & community events  
+- 👩‍💻 **Bellatrix Community Member** – Encouraging women in tech  
+
+<!-- Floating Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=700&lines=💡+DSA+Problem+Solver;⚡+Electronics+Enthusiast;🚀+Tech+Learner+%26+Innovator" alt="Typing Banner" />
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Srishty Sangwan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sangwansrishty63@gmail.com) 
