@@ -25,10 +25,12 @@
 - 🎨 **Passionate Painter** – Exhibited artworks in college & community events  
 - 👩‍💻 **Bellatrix Community Member** – Encouraging women in tech  
 
-<!-- Floating Typing Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=700&lines=💡+DSA+Problem+Solver;⚡+Electronics+Enthusiast;🚀+Tech+Learner+%26+Innovator" alt="Typing Banner" />
-</p>
+<!-- Cool Animated ML Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C0FF&height=200&section=header&text=💡+DSA+Problem+Solver;⚡+Electronics+Enthusiast;🚀+Tech+Learner+%26+Innovator"&fontSize=40&fontColor=ffffff" />
+</div>
+
+---
 
 
 ## 🌐 Socials:
